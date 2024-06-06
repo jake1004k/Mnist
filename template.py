@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 project_name = "MNIST"
 
 list_of_files = [
-    "static/",
+    "static/empty.txt",
     "templates/index.html",
     "app.py",
     "requirements.txt",
